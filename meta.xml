@@ -1,0 +1,8 @@
+<meta>
+
+    <script src="spawn_global.lua" type="shared" />
+
+    <script src="get_pos.lua" type="client" />
+    <script src="spawn_client.lua" type="client" />
+    <script src="spawn_server.lua" type="server" />
+</meta>
